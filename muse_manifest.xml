@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aaronjiang0.me" resolutions="1x" timestamp="1568602970678">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aaronjiang0.me" resolutions="1x" timestamp="1568603647291">
   <folder name="phone">
     <folder name="css">
       <file name="digital.css" crc="3804318260" ref="phone>digital"/>
       <file name="index.css" crc="83044008" ref="phone>index"/>
-      <file name="contact.css" crc="3826878203" ref="phone>contact"/>
+      <file name="contact.css" crc="172602596" ref="phone>contact"/>
     </folder>
     <file name="index.html" crc="4025991123" seo="true" mt="1568602938618" redirect="true"/>
-    <file name="contact.html" crc="4167670502" seo="true" mt="1568602962718" redirect="true"/>
+    <file name="contact.html" crc="4206415556" seo="true" mt="1568603638151" redirect="true"/>
     <file name="digital.html" crc="382140568" seo="true" mt="1568601633129" redirect="true"/>
   </folder>
   <folder name="css">
@@ -110,24 +110,24 @@
     </file>
     <file name="brsh.png" crc="4149685922" seo="true" ref="digital:contact:sculptures:illustration:painting:sketcbook:other:films:character-design:typography:digital-illustration:photography:timelapse:portrait:landscape:logo:3d-modelling:phone>contact:phone>digital">
       <caption webpage="logo" alt=""/>
-      <caption webpage="illustration" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="timelapse" alt=""/>
-      <caption webpage="digital-illustration" alt=""/>
       <caption webpage="typography" alt=""/>
-      <caption webpage="sculptures" alt=""/>
-      <caption webpage="sketcbook" alt=""/>
-      <caption webpage="portrait" alt=""/>
-      <caption webpage="other" alt=""/>
-      <caption webpage="landscape" alt=""/>
-      <caption webpage="painting" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="digital-illustration" alt=""/>
       <caption webpage="3d" alt=""/>
-      <caption webpage="digital" alt=""/>
-      <caption webpage="digital" alt=""/>
-      <caption webpage="3d-modelling" alt=""/>
-      <caption webpage="character-design" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="sketcbook" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="portrait" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="landscape" alt=""/>
+      <caption webpage="3d-modelling" alt=""/>
+      <caption webpage="timelapse" alt=""/>
+      <caption webpage="painting" alt=""/>
+      <caption webpage="sculptures" alt=""/>
+      <caption webpage="character-design" alt=""/>
+      <caption webpage="digital" alt=""/>
+      <caption webpage="digital" alt=""/>
     </file>
     <file name="jiang_aaron_1-crop-u1336.jpg" crc="340548536" seo="true" ref="digital">
       <caption webpage="digital" alt=""/>
@@ -153,23 +153,23 @@
     </file>
     <file name="mouse.png" crc="4042962036" seo="true" ref="traditional:contact:sculptures:illustration:painting:sketcbook:other:films:character-design:typography:digital-illustration:photography:timelapse:portrait:landscape:logo:3d-modelling:phone>contact">
       <caption webpage="logo" alt=""/>
-      <caption webpage="illustration" alt=""/>
-      <caption webpage="films" alt=""/>
-      <caption webpage="timelapse" alt=""/>
-      <caption webpage="digital-illustration" alt=""/>
       <caption webpage="typography" alt=""/>
-      <caption webpage="sculptures" alt=""/>
-      <caption webpage="sketcbook" alt=""/>
-      <caption webpage="portrait" alt=""/>
-      <caption webpage="other" alt=""/>
-      <caption webpage="landscape" alt=""/>
-      <caption webpage="painting" alt=""/>
-      <caption webpage="traditional" alt=""/>
-      <caption webpage="contact" alt=""/>
+      <caption webpage="digital-illustration" alt=""/>
       <caption webpage="3d" alt=""/>
-      <caption webpage="3d-modelling" alt=""/>
+      <caption webpage="other" alt=""/>
+      <caption webpage="films" alt=""/>
+      <caption webpage="sketcbook" alt=""/>
       <caption webpage="character-design" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="portrait" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="landscape" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="3d-modelling" alt=""/>
+      <caption webpage="timelapse" alt=""/>
+      <caption webpage="painting" alt=""/>
+      <caption webpage="sculptures" alt=""/>
+      <caption webpage="traditional" alt=""/>
     </file>
     <file name="portfolio oitems (4)-crop-u1253.jpg" crc="181616554" seo="true" ref="traditional">
       <caption webpage="traditional" alt=""/>
