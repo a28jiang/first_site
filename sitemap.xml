@@ -45,9 +45,6 @@
       <image:loc>http://aaronjiang0.me/images/mod2-crop-u1342.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aaronjiang0.me/images/pasted%20image%20603x877-crop-u1337.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://aaronjiang0.me/images/hvac_car_mockup-crop-u9869.jpg</image:loc>
     </image:image>
     <image:image>
@@ -61,6 +58,9 @@
     </image:image>
     <image:image>
       <image:loc>http://aaronjiang0.me/images/img_20180104_233511-1-.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/pasted%20image%20603x877.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -113,7 +113,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/sculptures.html</loc>
-    <lastmod>2018-01-14</lastmod>
+    <lastmod>2019-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -385,38 +385,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://aaronjiang0.me/3d.html</loc>
-    <lastmod>2018-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aaronjiang0.me/images/phone.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aaronjiang0.me/images/pasted%20image%20571x619.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aaronjiang0.me/images/brsh.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aaronjiang0.me/images/mouse.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aaronjiang0.me/images/bike%20detail.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aaronjiang0.me/images/mod2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aaronjiang0.me/images/bike%20detail-crop-u5671.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aaronjiang0.me/images/mod2103x108.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://aaronjiang0.me/typography.html</loc>
-    <lastmod>2018-01-14</lastmod>
+    <lastmod>2019-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -516,15 +486,15 @@
       <image:loc>http://aaronjiang0.me/images/img_6279445x297.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aaronjiang0.me/images/img_7332-crop-u7092.jpg</image:loc>
+      <image:loc>http://aaronjiang0.me/images/img_7599-2-crop-u7090.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aaronjiang0.me/images/img_7599-2-crop-u7090.jpg</image:loc>
+      <image:loc>http://aaronjiang0.me/images/img_1690-crop-u7092.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://aaronjiang0.me/timelapse.html</loc>
-    <lastmod>2018-01-14</lastmod>
+    <lastmod>2019-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -614,7 +584,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/portrait.html</loc>
-    <lastmod>2018-01-14</lastmod>
+    <lastmod>2019-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -704,7 +674,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/landscape.html</loc>
-    <lastmod>2018-01-14</lastmod>
+    <lastmod>2019-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -791,6 +761,18 @@
     <image:image>
       <image:loc>http://aaronjiang0.me/images/img_5468-crop-u7719.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/img_1666.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/img_1690.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/img_1666-crop-u11187.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/img_1690-crop-u11207.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://aaronjiang0.me/logo.html</loc>
@@ -832,6 +814,36 @@
     </image:image>
     <image:image>
       <image:loc>http://aaronjiang0.me/images/text1103x103.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aaronjiang0.me/3d-modelling.html</loc>
+    <lastmod>2019-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/phone.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/pasted%20image%20571x619.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/brsh.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/mouse.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/bike%20detail.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/mod2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/bike%20detail-crop-u5671.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/mod2103x108.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
