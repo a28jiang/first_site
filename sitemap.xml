@@ -5,6 +5,7 @@
     <lastmod>2019-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://aaronjiang0.me/phone/index.html"/>
     <image:image>
       <image:loc>http://aaronjiang0.me/images/portrait.png</image:loc>
     </image:image>
@@ -29,6 +30,7 @@
     <lastmod>2019-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://aaronjiang0.me/phone/digital.html"/>
     <image:image>
       <image:loc>http://aaronjiang0.me/images/phone.png</image:loc>
     </image:image>
@@ -98,6 +100,7 @@
     <lastmod>2019-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://aaronjiang0.me/phone/contact.html"/>
     <image:image>
       <image:loc>http://aaronjiang0.me/images/pasted%20image%20571x619.jpg</image:loc>
     </image:image>
