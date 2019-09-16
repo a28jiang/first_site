@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aaronjiang0.me" resolutions="1x" timestamp="1568653885077">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aaronjiang0.me" resolutions="1x" timestamp="1568654928303">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="4167035220" ref="phone>index"/>
@@ -25,7 +25,7 @@
     <file name="other.css" crc="4171356907" ref="other"/>
     <file name="character-design.css" crc="11667640" ref="character-design"/>
     <file name="typography.css" crc="9030874" ref="typography"/>
-    <file name="photography.css" crc="4065701562" ref="photography"/>
+    <file name="photography.css" crc="3854580430" ref="photography"/>
     <file name="sculptures.css" crc="4207599301" ref="sculptures"/>
     <file name="3d-modelling.css" crc="3885970370" ref="3d-modelling"/>
   </folder>
@@ -60,6 +60,7 @@
     </file>
     <file name="phone.png" crc="218135530" seo="true" ref="index:digital:traditional:sculptures:illustration:painting:sketcbook:other:films:character-design:typography:digital-illustration:photography:timelapse:portrait:landscape:logo:3d-modelling:phone>index">
       <caption webpage="logo" alt=""/>
+      <caption webpage="typography" alt=""/>
       <caption webpage="3d" alt=""/>
       <caption webpage="sculptures" alt=""/>
       <caption webpage="illustration" alt=""/>
@@ -74,7 +75,6 @@
       <caption webpage="landscape" alt=""/>
       <caption webpage="digital-illustration" alt=""/>
       <caption webpage="photography" alt=""/>
-      <caption webpage="typography" alt=""/>
       <caption webpage="other" alt=""/>
       <caption webpage="digital" alt=""/>
       <caption webpage="character-design" alt=""/>
@@ -88,42 +88,42 @@
     <file name="loading.gif" crc="3815509949" ref="index:digital:traditional:contact:sculptures:illustration:painting:sketcbook:other:character-design:digital-illustration:timelapse:portrait:landscape:logo:3d-modelling:phone>index:phone>contact"/>
     <file name="pasted image 571x619.jpg" crc="489891486" seo="true" ref="digital:traditional:contact:sculptures:illustration:painting:sketcbook:other:films:character-design:typography:digital-illustration:photography:timelapse:portrait:landscape:logo:3d-modelling">
       <caption webpage="logo" alt=""/>
+      <caption webpage="typography" alt=""/>
       <caption webpage="3d" alt=""/>
       <caption webpage="sculptures" alt=""/>
       <caption webpage="illustration" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="sketcbook" alt=""/>
-      <caption webpage="photography" alt=""/>
+      <caption webpage="3d-modelling" alt=""/>
       <caption webpage="traditional" alt=""/>
       <caption webpage="portrait" alt=""/>
-      <caption webpage="timelapse" alt=""/>
+      <caption webpage="photography" alt=""/>
       <caption webpage="landscape" alt=""/>
       <caption webpage="digital-illustration" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="typography" alt=""/>
+      <caption webpage="timelapse" alt=""/>
       <caption webpage="other" alt=""/>
       <caption webpage="digital" alt=""/>
-      <caption webpage="3d-modelling" alt=""/>
       <caption webpage="character-design" alt=""/>
       <caption webpage="painting" alt=""/>
     </file>
     <file name="brsh.png" crc="4149685922" seo="true" ref="digital:contact:sculptures:illustration:painting:sketcbook:other:films:character-design:typography:digital-illustration:photography:timelapse:portrait:landscape:logo:3d-modelling:phone>contact">
       <caption webpage="logo" alt=""/>
+      <caption webpage="typography" alt=""/>
       <caption webpage="3d" alt=""/>
       <caption webpage="sculptures" alt=""/>
       <caption webpage="illustration" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="sketcbook" alt=""/>
-      <caption webpage="photography" alt=""/>
+      <caption webpage="3d-modelling" alt=""/>
       <caption webpage="portrait" alt=""/>
-      <caption webpage="timelapse" alt=""/>
+      <caption webpage="photography" alt=""/>
       <caption webpage="landscape" alt=""/>
       <caption webpage="digital-illustration" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="typography" alt=""/>
+      <caption webpage="timelapse" alt=""/>
       <caption webpage="other" alt=""/>
       <caption webpage="digital" alt=""/>
-      <caption webpage="3d-modelling" alt=""/>
       <caption webpage="character-design" alt=""/>
       <caption webpage="painting" alt=""/>
     </file>
@@ -653,10 +653,10 @@
     <file name="pasted image 571x61926x29.jpg" crc="4247923496" seo="true" ref="phone>contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="favicon.ico" crc="4093043765" ref="phone>index:digital"/>
+    <file name="favicon.ico" crc="4093043765" ref="phone>index:digital:photography"/>
     <file name="tech.png" crc="85235669" seo="true" ref="phone>index:phone>contact:index:traditional:contact:sculptures:illustration:painting:sketcbook:other:films:character-design:3d-modelling:typography:digital-illustration:photography:timelapse:portrait:landscape:logo">
       <caption webpage="logo" alt=""/>
-      <caption webpage="timelapse" alt=""/>
+      <caption webpage="typography" alt=""/>
       <caption webpage="sculptures" alt=""/>
       <caption webpage="illustration" alt=""/>
       <caption webpage="films" alt=""/>
@@ -666,11 +666,11 @@
       <caption webpage="portrait" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="photography" alt=""/>
+      <caption webpage="timelapse" alt=""/>
       <caption webpage="landscape" alt=""/>
       <caption webpage="digital-illustration" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="typography" alt=""/>
+      <caption webpage="photography" alt=""/>
       <caption webpage="other" alt=""/>
       <caption webpage="character-design" alt=""/>
       <caption webpage="painting" alt=""/>
@@ -689,7 +689,7 @@
   <file name="character-design.html" crc="236126535" seo="true" mt="1568653004920" redirect="true"/>
   <file name="typography.html" crc="36237677" seo="true" mt="1568653015116" redirect="true"/>
   <file name="digital-illustration.html" crc="267588223" seo="true" mt="1568653020585" redirect="true"/>
-  <file name="photography.html" crc="246305293" seo="true" mt="1568653819417" redirect="true"/>
+  <file name="photography.html" crc="87462992" seo="true" mt="1568654882298" redirect="true"/>
   <file name="timelapse.html" crc="9449308" seo="true" mt="1568653112702" redirect="true"/>
   <file name="portrait.html" crc="485713731" seo="true" mt="1568653117003" redirect="true"/>
   <file name="landscape.html" crc="4082056900" seo="true" mt="1568653033564" redirect="true"/>
