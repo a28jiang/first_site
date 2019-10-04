@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aaronjiang0.me" resolutions="1x" timestamp="1570161770173">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aaronjiang0.me" resolutions="1x" timestamp="1570164426172">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="4167035220" ref="phone>index"/>
@@ -18,7 +18,7 @@
     <file name="films.css" crc="3986479618" ref="films"/>
     <file name="painting.css" crc="131262428" ref="painting"/>
     <file name="digital-illustration.css" crc="77135039" ref="digital-illustration"/>
-    <file name="digital.css" crc="3851586450" ref="digital"/>
+    <file name="digital.css" crc="3769275108" ref="digital"/>
     <file name="timelapse.css" crc="3905923545" ref="timelapse"/>
     <file name="traditional.css" crc="4283740866" ref="traditional"/>
     <file name="contact.css" crc="220196568" ref="contact"/>
@@ -28,7 +28,7 @@
     <file name="photography.css" crc="4260872648" ref="photography"/>
     <file name="sculptures.css" crc="290064071" ref="sculptures"/>
     <file name="3d-modelling.css" crc="105487463" ref="3d-modelling"/>
-    <file name="uiux.css" crc="3855877324" ref="uiux"/>
+    <file name="uiux.css" crc="4144805337" ref="uiux"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:digital:traditional:contact:sculptures:illustration:painting:sketcbook:other:films:character-design:typography:digital-illustration:photography:timelapse:portrait:landscape:logo:3d-modelling:phone>index:phone>contact:uiux"/>
@@ -60,7 +60,6 @@
       <caption webpage="uiux" alt=""/>
       <caption webpage="illustration" alt=""/>
       <caption webpage="digital" alt=""/>
-      <caption webpage="3d" alt=""/>
       <caption webpage="other" alt=""/>
       <caption webpage="sculptures" alt=""/>
       <caption webpage="typography" alt=""/>
@@ -73,9 +72,10 @@
       <caption webpage="timelapse" alt=""/>
       <caption webpage="traditional" alt=""/>
       <caption webpage="photography" alt=""/>
+      <caption webpage="digital-illustration" alt=""/>
       <caption webpage="landscape" alt=""/>
       <caption webpage="3d-modelling" alt=""/>
-      <caption webpage="digital-illustration" alt=""/>
+      <caption webpage="3d" alt=""/>
     </file>
     <file name="img_20180104_203720-1-.jpg" crc="469980655" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
@@ -87,8 +87,6 @@
       <caption webpage="uiux" alt=""/>
       <caption webpage="illustration" alt=""/>
       <caption webpage="digital" alt=""/>
-      <caption webpage="3d" alt=""/>
-      <caption webpage="traditional" alt=""/>
       <caption webpage="other" alt=""/>
       <caption webpage="sculptures" alt=""/>
       <caption webpage="typography" alt=""/>
@@ -96,20 +94,21 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="3d-modelling" alt=""/>
       <caption webpage="portrait" alt=""/>
+      <caption webpage="digital-illustration" alt=""/>
       <caption webpage="painting" alt=""/>
+      <caption webpage="character-design" alt=""/>
+      <caption webpage="traditional" alt=""/>
+      <caption webpage="photography" alt=""/>
       <caption webpage="timelapse" alt=""/>
       <caption webpage="landscape" alt=""/>
-      <caption webpage="photography" alt=""/>
       <caption webpage="films" alt=""/>
-      <caption webpage="character-design" alt=""/>
-      <caption webpage="digital-illustration" alt=""/>
+      <caption webpage="3d" alt=""/>
     </file>
     <file name="brsh.png" crc="4149685922" seo="true" ref="digital:contact:sculptures:illustration:painting:sketcbook:other:films:character-design:typography:digital-illustration:photography:timelapse:portrait:landscape:logo:3d-modelling:phone>contact:uiux">
       <caption webpage="logo" alt=""/>
       <caption webpage="uiux" alt=""/>
       <caption webpage="illustration" alt=""/>
       <caption webpage="digital" alt=""/>
-      <caption webpage="3d" alt=""/>
       <caption webpage="other" alt=""/>
       <caption webpage="sculptures" alt=""/>
       <caption webpage="typography" alt=""/>
@@ -117,13 +116,14 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="3d-modelling" alt=""/>
       <caption webpage="portrait" alt=""/>
+      <caption webpage="digital-illustration" alt=""/>
       <caption webpage="painting" alt=""/>
       <caption webpage="timelapse" alt=""/>
       <caption webpage="landscape" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="films" alt=""/>
       <caption webpage="character-design" alt=""/>
-      <caption webpage="digital-illustration" alt=""/>
+      <caption webpage="3d" alt=""/>
     </file>
     <file name="jiang_aaron_1-crop-u1336.jpg" crc="340548536" seo="true" ref="digital">
       <caption webpage="digital" alt=""/>
@@ -651,7 +651,7 @@
     <file name="pasted image 571x61926x29.jpg" crc="4247923496" seo="true" ref="phone>contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="favicon.ico" crc="4093043765" ref="phone>index:phone>contact:index"/>
+    <file name="favicon.ico" crc="4093043765" ref="phone>index:phone>contact:index:digital:uiux"/>
     <file name="tech.png" crc="85235669" seo="true" ref="phone>index:phone>contact:index:traditional:contact:sculptures:illustration:painting:sketcbook:other:films:character-design:3d-modelling:typography:digital-illustration:photography:timelapse:portrait:landscape:logo:uiux">
       <caption webpage="logo" alt=""/>
       <caption webpage="uiux" alt=""/>
@@ -681,7 +681,7 @@
     </file>
   </folder>
   <file name="index.html" crc="371492812" seo="true" mt="1570161703167" redirect="true"/>
-  <file name="digital.html" crc="4293614354" seo="true" mt="1570161004419" redirect="true"/>
+  <file name="digital.html" crc="4167956313" seo="true" mt="1570164241468" redirect="true"/>
   <file name="traditional.html" crc="3796529488" seo="true" mt="1570161379106" redirect="true"/>
   <file name="contact.html" crc="361406665" seo="true" mt="1570161742066" redirect="true"/>
   <file name="sculptures.html" crc="4024707172" seo="true" mt="1570161483018" redirect="true"/>
@@ -699,5 +699,5 @@
   <file name="landscape.html" crc="4118830627" seo="true" mt="1570161140232" redirect="true"/>
   <file name="logo.html" crc="15483360" seo="true" mt="1570161098418" redirect="true"/>
   <file name="3d-modelling.html" crc="3908776852" seo="true" mt="1570161074892" redirect="true"/>
-  <file name="uiux.html" crc="4071186903" seo="true" mt="1570161024615" redirect="true"/>
+  <file name="uiux.html" crc="4076738501" seo="true" mt="1570164386604" redirect="true"/>
 </manifest>
