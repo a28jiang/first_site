@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://aaronjiang0.me/index.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://aaronjiang0.me/phone/index.html"/>
@@ -27,7 +27,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/digital.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -63,10 +63,13 @@
     <image:image>
       <image:loc>http://aaronjiang0.me/images/pasted%20image%20603x877.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/pasted%20image%201076x922-crop-u16886.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://aaronjiang0.me/traditional.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -96,7 +99,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/contact.html</loc>
-    <lastmod>2019-09-30</lastmod>
+    <lastmod>2019-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://aaronjiang0.me/phone/contact.html"/>
@@ -115,7 +118,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/sculptures.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -151,7 +154,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/illustration.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -187,7 +190,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/painting.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -229,7 +232,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/sketcbook.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -292,7 +295,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/other.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -388,7 +391,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/typography.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -409,7 +412,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/digital-illustration.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -469,7 +472,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/photography.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -496,7 +499,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/timelapse.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -586,7 +589,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/portrait.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -676,7 +679,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/landscape.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -778,7 +781,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/logo.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -820,7 +823,7 @@
   </url>
   <url>
     <loc>http://aaronjiang0.me/3d-modelling.html</loc>
-    <lastmod>2019-09-16</lastmod>
+    <lastmod>2019-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -846,6 +849,27 @@
     </image:image>
     <image:image>
       <image:loc>http://aaronjiang0.me/images/tech.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aaronjiang0.me/uiux.html</loc>
+    <lastmod>2019-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/phone.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/pasted%20image%20571x619.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/brsh.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/tech.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aaronjiang0.me/images/pasted%20image%201076x922.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
